@@ -6,6 +6,7 @@ Scrapping of https://www.hauserwirth.com's list of artists, for parsing and savi
 
 ```
 gcl https://github.com/pommedepain/Artists-Scrapping.git
+npm i
 npm start
 ```
 
