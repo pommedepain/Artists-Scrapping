@@ -1,0 +1,33 @@
+{
+  "name": "artists-scrapping",
+  "version": "1.0.0",
+  "description": "Scrapping of https://www.hauserwirth.com's list of artists, for parsing and saving the result in a json file.",
+  "main": "index.js",
+  "scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pommedepain/Artists-Scrapping.git"
+  },
+  "keywords": [
+    "scrape",
+    "scrapping",
+    "parsing",
+    "parser",
+    "art",
+    "artist",
+    "json"
+  ],
+  "author": "pommedepain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pommedepain/Artists-Scrapping/issues"
+  },
+  "homepage": "https://github.com/pommedepain/Artists-Scrapping#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
